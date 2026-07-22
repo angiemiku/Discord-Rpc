@@ -1,0 +1,23 @@
+{
+  "TOKEN": "",
+  "APPLICATION_ID": "",
+
+  "TYPE": "STREAMING",
+  "STATUS": "idle",
+  "PLATFORM": "",
+  
+  "URL": "https://www.youtube.com/watch?v=LmZD-TU96q4",
+  "NAME": ":P",
+  "DETAILS": "",
+  "STATE": "",
+  "LARGE_IMAGE_URL": "https://cdn.discordapp.com/attachments/1039160347560529930/1529312275926618313/unknown.gif?ex=6a617a8b&is=6a60290b&hm=2de50ffbc6",
+  "LARGE_IMAGE_TEXT": "",
+  "SMALL_IMAGE_URL": "https://cdn.discordapp.com/emojis/1169940468918915117.gif",
+  "SMALL_IMAGE_TEXT": "",
+  
+  "BUTTON1_TEXT": "",
+  "BUTTON1_URL": "",
+  
+  "BUTTON2_TEXT": "",
+  "BUTTON2_URL": ""
+}
